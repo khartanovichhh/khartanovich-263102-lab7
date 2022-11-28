@@ -1,5 +1,0 @@
-$(() => {
-    $(".menu").click(() => {
-        $(".menus").slideToggle();
-    });
-});
